@@ -4045,12 +4045,13 @@
       "password": "dyrkjPe%"
     },
     {
+      "id": "3947",
       "name": "Amithaaaa",
       "role": "Senior Manager",
-      "address": "Seat no. #52, Sapient Consulting Pvt. Ltd. , Virgo Block, BCBP Bangalore",
+      "image": "../img/profile_27.jpg",
       "email": "pavithraumanath11@gmail.com",
-      "image": "http://localhost:3001/img/profile_27.jpg",
-      "id": "3947"
+      "address": "Seat no. #52, Sapient Consulting Pvt. Ltd. , Virgo Block, BCBP Bangalore",
+      "password": "vdrtjAe%"
     }
   ],
   "session": [
